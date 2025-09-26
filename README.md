@@ -8,20 +8,20 @@
 - 🎓 Engineering student with a strong interest in **Software Development** and **Data Structures & Algorithms**  
 - 💡 I enjoy building projects that combine creativity and technical problem-solving  
 - 🌍 Active on GitHub, contributing to personal and community projects  
-- 📫 Reach me at: [Your Email / LinkedIn link]  
+  
 
 ---
 
 ## 🔧 Skills
 
 **Languages**
-- C | C++ | Java | Python | JavaScript | HTML | CSS  
+- C | C++ | Java | Python | JavaScript | HTML | CSS  | SQL |
 
 **Frameworks & Tools**
-- React | Node.js | Git & GitHub | Bootstrap  
+- React | Node.js | Git & GitHub | Bootstrap | ANGULAR 
 
 **Core Competencies**
-- Problem Solving | Web Development | DSA | Collaborative Development  
+- Problem Solving | Web Development | DSA | Collaborative Development | OBJECT ORIENTED PROGRAMMING | COMPUTER NETWORKS |  
 
 ---
 
