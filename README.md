@@ -29,25 +29,13 @@
 
 Here are some of my featured projects:  
 
-- 🔹 [**ghpages**](https://github.com/anshika-1705/ghpages) → Personal GitHub Pages site setup  
-- 🔹 [**calendar**](https://github.com/anshika-1705/calendar) → Calendar application with interactive features  
-- 🔹 [**mlsa-workshop-diy**](https://github.com/anshika-1705/mlsa-workshop-diy) → Contributions to MLSA workshop projects  
-- 🔹 [**flappybird**](https://github.com/anshika-1705/flappybird) → Classic Flappy Bird clone in JavaScript  
-- 🔹 [**flappy**](https://github.com/anshika-1705/flappy) → Another version of Flappy Bird game  
-
+- 🔹 [**SalesInsightDashboard**](https://github.com/anshika-1705/salesinsight) → personal sales Insight Dashboard  
+- 🔹 [**RealTimeStockTracker**](https://github.com/anshika-1705/realtimestocktracker) → A web-app that Predicts Stock Prices  
+- 🔹 [**Movie_booking_app**](https://github.com/anshika-1705/movieapp) → E-commerce web-app to book movie tickets.
 👉 Check out all my repositories [here](https://github.com/anshika-1705?tab=repositories).  
 
 ---
 
-## 📊 GitHub Stats
-
-![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshika-1705&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-1705&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshika-1705&theme=radical)  
-
----
 
 ## 🌐 Connect With Me
 
