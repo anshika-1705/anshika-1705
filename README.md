@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anshika Aggarwal
 
-💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Open Source Enthusiast  
+💻 Passionate Developer | 🌱  Learner | 🚀 Enthusiast
 
 ---
 
